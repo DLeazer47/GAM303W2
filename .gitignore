@@ -1,0 +1,12 @@
+# Unreal Engine temporary files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.sln
+*.suo
+
+# Operating system files
+.DS_Store
+Thumbs.db
