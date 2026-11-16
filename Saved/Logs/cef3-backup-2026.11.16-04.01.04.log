@@ -1,0 +1,22 @@
+[8724:4628:1115/230004.958:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[8724:11112:1115/230005.610:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[8724:4628:1115/230005.725:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[2372:14600:1115/230034.187:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[2372:14600:1115/230034.603:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[10272:14388:1115/230042.446:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-DFCFCA6A583CEACE22249F468BE2157D will be ignored
+[2372:14600:1115/230045.187:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[2372:14600:1115/230055.187:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[11984:15728:1115/230057.075:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11984:10460:1115/230058.000:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11984:10460:1115/230058.000:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11984:10460:1115/230058.001:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[8724:15468:1115/230059.919:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[8724:4628:1115/230100.151:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,5]
+[8724:4628:1115/230100.152:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,5]
+[8724:4628:1115/230100.152:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,5]
+[8724:4628:1115/230100.152:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,5]
+[8724:15468:1115/230100.279:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,5]
+[4292:15900:1115/230102.669:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4292:13492:1115/230104.045:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4292:13492:1115/230104.045:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4292:13492:1115/230104.046:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.

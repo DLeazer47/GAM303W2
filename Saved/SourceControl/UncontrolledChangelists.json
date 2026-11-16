@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/dmeng/OneDrive - SNHU/Documents/Unreal Projects/GAM303W2/Content/Maps/TestEnvironment.umap",
+				"C:/Users/dmeng/OneDrive - SNHU/Documents/Unreal Projects/GAM303W2/Content/Input/IMC_Default.uasset",
+				"C:/Users/dmeng/OneDrive - SNHU/Documents/Unreal Projects/GAM303W2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/dmeng/OneDrive - SNHU/Documents/Unreal Projects/GAM303W2/Content/Input/Actions/Input_Jump.uasset",
+				"C:/Users/dmeng/OneDrive - SNHU/Documents/Unreal Projects/GAM303W2/Content/Input/Actions/IA_Jump.uasset",
+				"C:/Users/dmeng/OneDrive - SNHU/Documents/Unreal Projects/GAM303W2/Content/Input/Actions/Input_Move.uasset",
+				"C:/Users/dmeng/OneDrive - SNHU/Documents/Unreal Projects/GAM303W2/Content/Input/Actions/IA_Move.uasset",
+				"C:/Users/dmeng/OneDrive - SNHU/Documents/Unreal Projects/GAM303W2/Content/Input/IMC_MouseLook.uasset",
+				"C:/Users/dmeng/OneDrive - SNHU/Documents/Unreal Projects/GAM303W2/Content/Input/Actions/Input_LookMouse.uasset",
+				"C:/Users/dmeng/OneDrive - SNHU/Documents/Unreal Projects/GAM303W2/Content/Input/Actions/IA_MouseLook.uasset",
+				"C:/Users/dmeng/OneDrive - SNHU/Documents/Unreal Projects/GAM303W2/Content/Input/Mapping_Player.uasset",
+				"C:/Users/dmeng/OneDrive - SNHU/Documents/Unreal Projects/GAM303W2/Content/Player/BP_PlayerChar.uasset",
+				"C:/Users/dmeng/OneDrive - SNHU/Documents/Unreal Projects/GAM303W2/Content/Player/BP_GameMode.uasset",
+				"C:/Users/dmeng/OneDrive - SNHU/Documents/Unreal Projects/GAM303W2/Content/Player/BP_PlayerController.uasset",
+				"C:/Users/dmeng/OneDrive - SNHU/Documents/Unreal Projects/GAM303W2/Content/Input/Actions/Input_Interact.uasset",
+				"C:/Users/dmeng/OneDrive - SNHU/Documents/Unreal Projects/GAM303W2/Content/Interactables/Interact.uasset",
+				"C:/Users/dmeng/OneDrive - SNHU/Documents/Unreal Projects/GAM303W2/Content/Interfaces/Interface_Interact.uasset"
+			]
+		}
+	]
+}
